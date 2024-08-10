@@ -1,0 +1,18 @@
+[project]
+name = "jdb-py by Zortingento"
+version = "0.0.1"
+authors = [
+  { name="Zortingento", email="mehmetfatih14532009@gmail.com" },
+]
+description = "Package of mine to do a JSON based simple database!"
+readme = "README.md"
+requires-python = "==3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Zortingento/json-data-base-python"
+Issues = "https://github.com/Zortingento/json-data-base-python/issues"
